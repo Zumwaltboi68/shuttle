@@ -1,4 +1,5 @@
-# Shuttle Proxy | V3 Releasing in 1-3 months!
+# Shuttle V3 (beta)
+### V3 is still in beta, you may create pr's to clean up and make v3 better.
 
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://github.com/shuttlenetwork/shuttle/wiki#how-to-deploy-to-onrender)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/shuttlenetwork/shuttle)
@@ -24,6 +25,4 @@ npm install
 npm start
 ```
 ## Info 
-Proxies use a lot of bandwidth and are not generally allowed on free hosting platforms.
-The best option is to buy and use a vps to host or use your pc.
-The proxy requires the site to be https.
+- If you are running this site on replit or other hosting platform that bans proxies, use [Shuttle Lite](https://github.com/shuttlenetwork/shuttle-lite)
